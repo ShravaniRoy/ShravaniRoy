@@ -8,8 +8,8 @@ I am a product developer(web). I like to create end to end solutions to solve pr
 
 * 🌍  I'm based in India
 * 🚀  I'm currently working on [reward-your-child](http://https://github.com/ShravaniRoy/reward-your-child)
-* 🧠  I'm learning Java
-* 🤝  I'm open to collaborating on Design Systems, AI applications and anything that can sharpen my brain
+* 🧠  I'm learning DSA
+* 🤝  I'm open to collaborating on applications that solve real problems, AI applications and anything that can sharpen my brain
 * ⚡  Interesting Fact: I am a Kuchipudi student.
 * Check my blog - [blog.shravaniroy.com](https://blog.shravaniroy.com/)
 
