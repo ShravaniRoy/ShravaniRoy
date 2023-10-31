@@ -4,12 +4,12 @@ Hi 👋 My name is Shravani Roy
 Product Developer
 -----------------
 
-I am a product developer(web). I like to create end to end solutions to solve problems and blog about the same. Having experience in teaching BTech students in my earlier days of career, I love sharing knowledge and mentoring juniours around technical skills and career path.
+I am a product developer(web). I like to create end-to-end solutions to solve problems and blog about the same. Having experience in teaching BTech students in my earlier days of career, I love sharing knowledge and mentoring juniours around technical skills and career paths.
 
 * 🌍  I'm based in India
 * 🚀  I'm currently working on [reward-your-child](http://https://github.com/ShravaniRoy/reward-your-child)
 * 🧠  I'm learning DSA
-* 🤝  I'm open to collaborating on applications that solve real problems, AI applications and anything that can sharpen my brain
+* 🤝  I'm open to collaborating on applications that solve real problems, AI applications, and anything that can challenge my brain
 * ⚡  Interesting Fact: I am a Kuchipudi student.
 * Check my blog - [blog.shravaniroy.com](https://blog.shravaniroy.com/)
 
