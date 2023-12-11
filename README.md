@@ -3,7 +3,7 @@ About me
 
 I am a product developer(web) based in Hyderabad, India.
 
-* 🚀  I'm currently working on [reward-your-child](http://https://github.com/ShravaniRoy/reward-your-child)
+* 🚀  I'm currently building products for a DaaS project.
 * 🧠  I'm learning DS
 * ⚡  I am a Kuchipudi student.
 * Check my blog - [blog.shravaniroy.com](https://blog.shravaniroy.com/)
