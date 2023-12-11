@@ -6,7 +6,7 @@ I am a product developer(web) based in Hyderabad, India.
 * 🚀  I'm currently building products for a DaaS project.
 * 🧠  I'm learning DS
 * ⚡  I am a Kuchipudi student.
-* Check my blog - [blog.shravaniroy.com](https://blog.shravaniroy.com/)
+* Check my blog - [blog.shravaniroy.in](https://blog.shravaniroy.in/)
 
 ### Skills:
 
