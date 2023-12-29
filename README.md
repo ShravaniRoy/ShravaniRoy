@@ -3,8 +3,8 @@ About me
 
 I am a product developer(web) based in Hyderabad, India.
 
-* 🚀  I'm currently building products for a DaaS project.
-* 🧠  I'm learning DS
+* 🚀  I'm currently building an OCR project.
+* 🧠  I'm learning DS and Spring
 * ⚡  I am a Kuchipudi student.
 * Check my blog - [blog.shravaniroy.in](https://blog.shravaniroy.in/)
 
