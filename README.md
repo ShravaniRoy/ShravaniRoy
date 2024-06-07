@@ -3,9 +3,9 @@ About me
 
 I am a product developer(web) based in Hyderabad, India.
 
-* 🚀  I'm currently building an OCR project.
-* 🧠  I'm learning DS and Spring
-* ⚡  I am a Kuchipudi student.
+* 🚀  I'm currently building Spring projects.
+* 🧠  I'm practicing DataStructures and Algorithms
+* ⚡  I am a Professional Kuchipudi dancer.
 * Check my blog - [blog.shravaniroy.in](https://blog.shravaniroy.in/)
 
 ### Skills:
