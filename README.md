@@ -8,5 +8,5 @@ Check my blog - [www.shravaniroy.in](https://www.shravaniroy.in/)
 ### Skills:
 
 
-<p align="left"> * Javascript, * Typescript, * React Js, * Jest, * React DevTools, * Python, * FastAPI, * Pytest, * Postgres, * Git
+<p align="left"> *Javascript, *Typescript, *React Js, *Jest, *React DevTools, *Python, *FastAPI, *Pytest, *Postgres, *Git
 </p>
