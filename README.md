@@ -2,11 +2,9 @@ About me
 -----------------
 
 I am a product developer(web) based in Hyderabad, India.
+I'm currently working as a Lead Software Developer at Virtusa.
 
-* 🚀  I'm currently working as a Senior Software Developer at Virtusa.
-* 🧠  I'm working on a project that solves one of the many parenting challenges.
-* ⚡  I am a Professional Kuchipudi dancer.
-* Check my blog - [blog.shravaniroy.in](https://blog.shravaniroy.in/)
+* Check my blog - [www.shravaniroy.in](https://www.shravaniroy.in/)
 
 ### Skills:
 
